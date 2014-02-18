@@ -14,6 +14,25 @@
 
 @implementation hamedViewController
 
+- (IBAction)respring:(id)sender {
+    
+    system("killall SpringBoard");
+}
+
+
+- (IBAction)reboot:(id)sender {
+    
+    system("reboot");
+}
+
+
+- (IBAction)halt:(id)sender {
+    
+    system("halt");
+}
+
+
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];

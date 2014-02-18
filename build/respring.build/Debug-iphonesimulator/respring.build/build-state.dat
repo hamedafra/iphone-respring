@@ -1,0 +1,385 @@
+Trespring
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-gmnaaaywwzyyilcvbglrxvzvefzh/respring-Prefix.pch.pch respring/respring-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedAppDelegate.o /Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedViewController.o /Users/hamed/Documents/c++/respring/respring/hamedViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/main.o /Users/hamed/Documents/c++/respring/respring/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/respring normal x86_64
+cCompileStoryboard /Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/en.lproj/InfoPlist.strings respring/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app /Users/hamed/Documents/c++/respring/respring/Images.xcassets
+cProcessInfoPlistFile /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/Info.plist /Users/hamed/Documents/c++/respring/respring/respring-Info.plist
+cGenerateDSYMFile /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app.dSYM /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/respring
+cTouch /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000527843C500000000000003B5
+t1383613381
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843D100000000000001A0
+t1383613393
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000527843D50000000000445870
+t1383613397
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527843D8000000000088C680
+t1383613400
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000527843DD0000000001DB9910
+t1383613405
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525638CE0000000000000AC9
+t1381382350
+s2761
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app
+t1392711864
+s306
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app.dSYM
+t2
+s0
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/Base.lproj/Main_iPad.storyboardc
+t1392711861
+s170
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/Base.lproj/Main_iPhone.storyboardc
+t1392711860
+s170
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/Info.plist
+t1392711864
+s1281
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/PkgInfo
+t1392711864
+s8
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/en.lproj/InfoPlist.strings
+t1392711860
+s42
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/respring
+t1392711860
+s17584
+
+N/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedAppDelegate.o
+t1392711859
+s71672
+
+N/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedViewController.o
+t1392711859
+s41772
+
+N/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/main.o
+t1392711859
+s3888
+
+N/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/respring.LinkFileList
+c00000000530318B1000000000000018C
+t1392711857
+s396
+
+N/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/assetcatalog_dependencies.txt
+t1392711864
+s337
+
+N/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/assetcatalog_generated_info.plist
+t1392711864
+s525
+
+N/Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPad.storyboard
+c000000005303179B0000000000000649
+t1392711579
+s1609
+
+N/Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPhone.storyboard
+c00000000530317FD000000000000102B
+t1392711677
+s4139
+
+N/Users/hamed/Documents/c++/respring/respring/Images.xcassets
+c000000005303179B0000000000000088
+t1392711579
+s136
+
+N/Users/hamed/Documents/c++/respring/respring/en.lproj/InfoPlist.strings
+c000000005303179B000000000000002D
+t1392711579
+s45
+
+N/Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m
+c000000005303179B00000000000007FE
+t1392711579
+s2046
+
+N/Users/hamed/Documents/c++/respring/respring/hamedViewController.m
+c000000005303179B0000000000000219
+t1392711579
+s537
+
+N/Users/hamed/Documents/c++/respring/respring/main.m
+c000000005303179B0000000000000173
+t1392711579
+s371
+
+N/Users/hamed/Documents/c++/respring/respring/respring-Info.plist
+c000000005303179B0000000000000631
+t1392711579
+s1585
+
+N/Users/hamed/Documents/c++/respring/respring/respring-Prefix.pch
+c000000005303179B0000000000000158
+t1392711579
+s344
+
+N/var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-gmnaaaywwzyyilcvbglrxvzvefzh/respring-Prefix.pch.pch
+t1392711858
+s108404
+
+CBuild AST from /Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m
+r0
+
+CBuild AST from /Users/hamed/Documents/c++/respring/respring/hamedViewController.m
+r0
+
+CBuild AST from /Users/hamed/Documents/c++/respring/respring/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese4c0ef3150b3b841^a261f53150b3b841^---0#1#1#--18"Check dependencies36"D79FC80C-450D-4A0A-A29D-3D905F1213B8-
+
+CCompileAssetCatalog /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app /Users/hamed/Documents/c++/respring/respring/Images.xcassets
+s414404660.762590
+e414404664.055092
+r1
+xCompileAssetCatalog
+x/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app
+x/Users/hamed/Documents/c++/respring/respring/Images.xcassets
+o2014-02-18 11:54:23.884 IBCocoaTouchImageCatalogTool[50406:303] CFPreferences: user home directory at file:///Users/hamed/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/LaunchImage-700-568h@2x.png
+o/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/Assets.car
+o/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"CompileAssetCatalog build/Debug-iphonesimulator/respring.app respring/Images.xcassets85"CompileAssetCatalog build/Debug-iphonesimulator/respring.app respring/Images.xcassetsaa46c33450b3b841^f81a0e3850b3b841^-589"2014-02-18 11:54:23.884 IBCocoaTouchImageCatalogTool[50406:303] CFPreferences: user home directory at file:///Users/hamed/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/LaunchImage-700-568h@2x.png/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/Assets.car/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@68"file:///Users/hamed/Documents/c++/respring/respring/Images.xcassets/0000000000000000^1116"CompileAssetCatalog build/Debug-iphonesimulator/respring.app respring/Images.xcassets    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app /Users/hamed/Documents/c++/respring/respr36"5F894B74-5CCE-42C0-909B-96279A893677-
+b2B1C839B-DEF9-4C65-B49D-A67056C3A3E8
+
+CCompileC build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedAppDelegate.o /Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414404659.005484
+e414404659.091476
+r1
+xCompileC
+xbuild/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedAppDelegate.o
+x/Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m
+d/Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m205"CompileC build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedAppDelegate.o respring/hamedAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8e79013350b3b841^7f6b173350b3b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m0000000000000000^3564"CompileC build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedAppDelegate.o respring/hamedAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hamed/Documents/c++/respring    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hamed/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-generated-files.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-own-target-headers.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-all-target-headers.hmap -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-project-headers.hmap -I/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/DerivedSources/x86_64 -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/DerivedSources -F/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator -include /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-gmnaaaywwzyyilcvbglrxvzvefzh/respring-Prefix.pch -MMD -MT dependencies -MF /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedAppDelegate.d --serialize-diagnostics /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedAppDelegate.dia -c /Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m -o /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_6436"6A2B719A-5A9A-45B3-813D-4D2D289E1A61-
+b2B1C839B-DEF9-4C65-B49D-A67056C3A3E8
+
+CCompileC build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedViewController.o /Users/hamed/Documents/c++/respring/respring/hamedViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414404659.005662
+e414404659.084813
+r1
+xCompileC
+xbuild/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedViewController.o
+x/Users/hamed/Documents/c++/respring/respring/hamedViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hamed/Documents/c++/respring/respring/hamedViewController.m
+d/Users/hamed/Documents/c++/respring/respring/hamedViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/hamed/Documents/c++/respring/respring/hamedViewController.m211"CompileC build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedViewController.o respring/hamedViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4183013350b3b841^5fb6153350b3b841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/hamed/Documents/c++/respring/respring/hamedViewController.m0000000000000000^3582"CompileC build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedViewController.o respring/hamedViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hamed/Documents/c++/respring    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hamed/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-generated-files.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-own-target-headers.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-all-target-headers.hmap -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-project-headers.hmap -I/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/DerivedSources/x86_64 -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/DerivedSources -F/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator -include /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-gmnaaaywwzyyilcvbglrxvzvefzh/respring-Prefix.pch -MMD -MT dependencies -MF /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedViewController.d --serialize-diagnostics /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedViewController.dia -c /Users/hamed/Documents/c++/respring/respring/hamedViewController.m -o /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/ha36"81926A5D-F719-464E-B0AF-05AD291771B3-
+b2B1C839B-DEF9-4C65-B49D-A67056C3A3E8
+
+CCompileC build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/main.o /Users/hamed/Documents/c++/respring/respring/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414404659.005878
+e414404659.077509
+r1
+xCompileC
+xbuild/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/main.o
+x/Users/hamed/Documents/c++/respring/respring/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hamed/Documents/c++/respring/respring/main.m
+d/Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/hamed/Documents/c++/respring/respring/main.m181"CompileC build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/main.o respring/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera88e013350b3b841^d4d7133350b3b841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/hamed/Documents/c++/respring/respring/main.m0000000000000000^3492"CompileC build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/main.o respring/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hamed/Documents/c++/respring    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hamed/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-generated-files.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-own-target-headers.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-all-target-headers.hmap -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-project-headers.hmap -I/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/DerivedSources/x86_64 -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/DerivedSources -F/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator -include /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-gmnaaaywwzyyilcvbglrxvzvefzh/respring-Prefix.pch -MMD -MT dependencies -MF /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/main.dia -c /Users/hamed/Documents/c++/respring/respring/main.m -o /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-n36"F91832DB-DB61-4E2C-8CF4-C1B7F5190146-
+b2B1C839B-DEF9-4C65-B49D-A67056C3A3E8
+
+CCompileStoryboard /Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPad.storyboard
+s414404660.762083
+e414404661.034453
+r1
+xCompileStoryboard
+x/Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPad.storyboard
+o2014-02-18 11:54:20.952 Interface Builder Cocoa Touch Tool[50403:303] CFPreferences: user home directory at file:///Users/hamed/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"CompileStoryboard respring/Base.lproj/Main_iPad.storyboard58"CompileStoryboard respring/Base.lproj/Main_iPad.storyboardfb24c33450b3b841^b3d2083550b3b841^-230"2014-02-18 11:54:20.952 Interface Builder Cocoa Touch Tool[50403:303] CFPreferences: user home directory at file:///Users/hamed/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@83"file:///Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPad.storyboard0000000000000000^869"CompileStoryboard respring/Base.lproj/Main_iPad.storyboard    cd /Users/hamed/Documents/c++/respring    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/Base.lproj/Main_iPad.storyboardc /Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPad.storyboard36"05B2349F-3E0E-4125-B975-DD9CFD24E799-
+b2B1C839B-DEF9-4C65-B49D-A67056C3A3E8
+
+CCompileStoryboard /Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPhone.storyboard
+s414404660.762175
+e414404660.866577
+r1
+xCompileStoryboard
+x/Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"CompileStoryboard respring/Base.lproj/Main_iPhone.storyboard60"CompileStoryboard respring/Base.lproj/Main_iPhone.storyboard452bc33450b3b841^1bd9dd3450b3b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPhone.storyboard0000000000000000^875"CompileStoryboard respring/Base.lproj/Main_iPhone.storyboard    cd /Users/hamed/Documents/c++/respring    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/Base.lproj/Main_iPhone.storyboardc /Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPhone.storyboard36"EF7FAFFC-6A29-4222-A8FF-FF4E5B8EF17D-
+b2B1C839B-DEF9-4C65-B49D-A67056C3A3E8
+
+CCopyStringsFile /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/en.lproj/InfoPlist.strings respring/en.lproj/InfoPlist.strings
+s414404660.762285
+e414404660.802621
+r1
+xCopyStringsFile
+x/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/en.lproj/InfoPlist.strings
+xrespring/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy respring/en.lproj/InfoPlist.strings119"CopyStringsFile build/Debug-iphonesimulator/respring.app/en.lproj/InfoPlist.strings respring/en.lproj/InfoPlist.strings9430c33450b3b841^5b79cd3450b3b841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/hamed/Documents/c++/respring/respring/en.lproj/InfoPlist.strings0000000000000000^603"CopyStringsFile build/Debug-iphonesimulator/respring.app/en.lproj/InfoPlist.strings respring/en.lproj/InfoPlist.strings    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/en.lproj -- respring/en.lproj/InfoPlist.strings36"FAED0707-5277-4DA6-96BE-1A0A6841AA41-
+b2B1C839B-DEF9-4C65-B49D-A67056C3A3E8
+
+CGenerateDSYMFile /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app.dSYM /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/respring
+s414404664.056973
+e414404664.133378
+r1
+xGenerateDSYMFile
+x/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app.dSYM
+x/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/respring
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Generate /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app.dSYM112"GenerateDSYMFile build/Debug-iphonesimulator/respring.app.dSYM build/Debug-iphonesimulator/respring.app/respringd49e0e3850b3b841^3125223850b3b841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app.dSYM00348cf7deffdf42^652"GenerateDSYMFile build/Debug-iphonesimulator/respring.app.dSYM build/Debug-iphonesimulator/respring.app/respring    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/respring -o /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app.dSYM36"503B8FB9-4CC7-48A4-95AC-504515174E34-
+b2B1C839B-DEF9-4C65-B49D-A67056C3A3E8
+
+CLd /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/respring normal x86_64
+s414404659.092011
+e414404660.761504
+r1
+xLd
+x/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/respring
+xnormal
+xx86_64
+d/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/respring.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedAppDelegate.o
+d/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/hamedViewController.o
+d/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Link /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/respring66"Ld build/Debug-iphonesimulator/respring.app/respring normal x86_64569b173350b3b841^95f2c23450b3b841^---0#0#1#--1335"Ld build/Debug-iphonesimulator/respring.app/respring normal x86_64    cd /Users/hamed/Documents/c++/respring    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator -F/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator -filelist /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/respring.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/Objects-normal/x86_64/respring_dependency_info.dat -o /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/re36"B57ABBA3-6F5F-4D67-B2BC-B39470F62E6E-
+b2B1C839B-DEF9-4C65-B49D-A67056C3A3E8
+
+CProcessInfoPlistFile /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/Info.plist /Users/hamed/Documents/c++/respring/respring/respring-Info.plist
+s414404664.055473
+e414404664.056699
+r1
+xProcessInfoPlistFile
+x/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/Info.plist
+x/Users/hamed/Documents/c++/respring/respring/respring-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Process /Users/hamed/Documents/c++/respring/respring/respring-Info.plist101"ProcessInfoPlistFile build/Debug-iphonesimulator/respring.app/Info.plist respring/respring-Info.plist21400e3850b3b841^38840e3850b3b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/hamed/Documents/c++/respring/respring/respring-Info.plist0000000000000000^865"ProcessInfoPlistFile build/Debug-iphonesimulator/respring.app/Info.plist respring/respring-Info.plist    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    builtin-infoPlistUtility /Users/hamed/Documents/c++/respring/respring/respring-Info.plist -genpkginfo /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/assetcatalog_generated_info.plist -o /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app/Info.plist36"9C6B13B1-A499-4C38-B3C2-67FA3DACABF2-
+b2B1C839B-DEF9-4C65-B49D-A67056C3A3E8
+
+CProcessPCH /Users/hamed/Library/Developer/Xcode/DerivedData/respring-hagtojtasmrirmawoqdhvsvqvnjr/Index/PrecompiledHeaders/respring-Prefix-cwzgymniuxscbncwagtqdyznddhf_ast/respring-Prefix.pch.pch respring/respring-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-gmnaaaywwzyyilcvbglrxvzvefzh/respring-Prefix.pch.pch respring/respring-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414404657.960991
+e414404659.004962
+r1
+xProcessPCH
+x/var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-gmnaaaywwzyyilcvbglrxvzvefzh/respring-Prefix.pch.pch
+xrespring/respring-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hamed/Documents/c++/respring/respring/respring-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile respring/respring-Prefix.pch296"ProcessPCH /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-gmnaaaywwzyyilcvbglrxvzvefzh/respring-Prefix.pch.pch respring/respring-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler971df63150b3b841^0647013350b3b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/hamed/Documents/c++/respring/respring/respring-Prefix.pch0000000000000000^3623"ProcessPCH /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-gmnaaaywwzyyilcvbglrxvzvefzh/respring-Prefix.pch.pch respring/respring-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hamed/Documents/c++/respring    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hamed/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-generated-files.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-own-target-headers.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-all-target-headers.hmap -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/respring-project-headers.hmap -I/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/DerivedSources/x86_64 -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphonesimulator/respring.build/DerivedSources -F/Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-gmnaaaywwzyyilcvbglrxvzvefzh/respring-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-gmnaaaywwzyyilcvbglrxvzvefzh/respring-Prefix.pch.d -c /Users/hamed/Documents/c++/respring/respring/respring-Prefix.pch -o /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-gmnaaaywwzyyilcvbglrxvzvefzh/resp36"D2684937-81C8-42B8-ADA0-FAE18B4974D5-
+b2B1C839B-DEF9-4C65-B49D-A67056C3A3E8
+
+CTouch /Users/hamed/Documents/c++/respring/build/Debug-iphonesimulator/respring.app
+r0
+

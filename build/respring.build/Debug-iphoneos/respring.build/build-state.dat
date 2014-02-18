@@ -1,0 +1,780 @@
+Trespring
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Debug-iphoneos/respring.app/ResourceRules.plist
+cProcessPCH /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-dflckrzpcoqxnmhanupwtfiaxemd/respring-Prefix.pch.pch respring/respring-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedAppDelegate.o /Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedViewController.o /Users/hamed/Documents/c++/respring/respring/hamedViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/main.o /Users/hamed/Documents/c++/respring/respring/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/respring normal armv7s
+cCopyPNGFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-1.png respring/Untitled-1.png
+cCopyPNGFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-2.png respring/Untitled-2.png
+cCompileStoryboard /Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPad.storyboard
+cCopyPNGFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/url.png respring/url.png
+cCopyPNGFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled.png respring/Untitled.png
+cCompileStoryboard /Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPhone.storyboard
+cCopyPNGFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-3.png respring/Untitled-3.png
+cCopyStringsFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/en.lproj/InfoPlist.strings respring/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app /Users/hamed/Documents/c++/respring/respring/Images.xcassets
+cProcessInfoPlistFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Info.plist /Users/hamed/Documents/c++/respring/respring/respring-Info.plist
+cGenerateDSYMFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app.dSYM /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/respring
+cTouch /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app
+cCodeSign /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c000000005300E01B0000000000000132
+t1392566299
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c00000000527843AE0000000000000096
+t1383613358
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c000000005300E01B0000000000000638
+t1392566299
+s1592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000527843AF0000000000630EB0
+t1383613359
+s6491824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000527843B0000000000079BFE0
+t1383613360
+s7978976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000527843B000000000004D63C0
+t1383613360
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000527843B0000000000042AB80
+t1383613360
+s4369280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000527843B000000000003062A0
+t1383613360
+s3170976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000527843B0000000000006F7F0
+t1383613360
+s456688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527843B10000000000A92BC0
+t1383613361
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000527843B10000000000046ED0
+t1383613361
+s290512
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000527843B20000000000640E80
+t1383613362
+s6557312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000527843B2000000000017E0C0
+t1383613362
+s1564864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000527843B400000000025A5AC0
+t1383613364
+s39475904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000527843B80000000000387B30
+t1383613368
+s3701552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+c00000000527843BC000000000001D2B0
+t1383613372
+s119472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+c00000000527843BD000000000054C820
+t1383613373
+s5556256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+c00000000527843BD0000000000028490
+t1383613373
+s165008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000527843BD00000000000472B0
+t1383613373
+s291504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000527843BD000000000003EB80
+t1383613373
+s256896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+c00000000527843BD000000000002AEE0
+t1383613373
+s175840
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000527843BD00000000000E2F20
+t1383613373
+s929568
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+c00000000527843BD00000000000A1FC0
+t1383613373
+s663488
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+c00000000527843BD000000000001E8A0
+t1383613373
+s125088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+c00000000527843BD000000000000BF00
+t1383613373
+s48896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+c00000000527843BD0000000000034100
+t1383613373
+s213248
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+c00000000527843BD0000000000022F30
+t1383613373
+s143152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+c00000000527843BD000000000001D1B0
+t1383613373
+s119216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000527843BD0000000000051110
+t1383613373
+s332048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000527843BD0000000000017E90
+t1383613373
+s97936
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+c00000000527843BD00000000001BA370
+t1383613373
+s1811312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000527843BD000000000001EFF0
+t1383613373
+s126960
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000527843BD000000000002FA40
+t1383613373
+s195136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+c00000000527843BD000000000008B3E0
+t1383613373
+s570336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000527843BD00000000000B5FC0
+t1383613373
+s745408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+c00000000527843BD0000000000078620
+t1383613373
+s493088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000527843BD0000000000060810
+t1383613373
+s395280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+c00000000527843BD00000000000B6B40
+t1383613373
+s748352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000527843BD0000000000039D00
+t1383613373
+s236800
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000527843BD000000000003E940
+t1383613373
+s256320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000527843BD000000000002CF80
+t1383613373
+s184192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000527843BD000000000001EB50
+t1383613373
+s125776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000527843BD000000000001EDE0
+t1383613373
+s126432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+c00000000527843BD00000000000213C0
+t1383613373
+s136128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+c00000000527843BD00000000000ADAC0
+t1383613373
+s711360
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525638CE0000000000000AC9
+t1381382350
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c00000000527843A60000000000005004
+t1383613350
+s20484
+
+N/Users/hamed/Desktop/url.png
+c00000000530314D30000000000016043
+t1392710867
+s90179
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app
+t1392729107
+s578
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app.dSYM
+t1392729195
+s102
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Base.lproj/Main_iPad.storyboardc
+t1392711709
+s170
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Base.lproj/Main_iPhone.storyboardc
+t1392726344
+s170
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Info.plist
+t1392713007
+s1684
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/PkgInfo
+t1392713007
+s8
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/ResourceRules.plist
+t1392711705
+s150
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-1.png
+t1392715138
+s21037
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-2.png
+t1392716317
+s19619
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-3.png
+t1392716520
+s19627
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled.png
+t1392716103
+s19858
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/en.lproj/InfoPlist.strings
+t1392711708
+s42
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/respring
+t1392729107
+s64192
+
+N/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/url.png
+t1392712828
+s13055
+
+N/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedAppDelegate.o
+t1392711706
+s64672
+
+N/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedViewController.o
+t1392729100
+s42732
+
+N/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/main.o
+t1392717251
+s3832
+
+N/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/respring.LinkFileList
+c00000000530318190000000000000177
+t1392711705
+s375
+
+N/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/assetcatalog_dependencies.txt
+t1392713007
+s409
+
+N/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/assetcatalog_generated_info.plist
+t1392713007
+s711
+
+N/Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPad.storyboard
+c000000005303179B0000000000000649
+t1392711579
+s1609
+
+N/Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPhone.storyboard
+c00000000530351410000000000001697
+t1392726337
+s5783
+
+N/Users/hamed/Documents/c++/respring/respring/Images.xcassets
+c0000000053031D2800000000000000AA
+t1392713000
+s170
+
+N/Users/hamed/Documents/c++/respring/respring/Untitled-1.png
+c00000000530323350000000000005291
+t1392714549
+s21137
+
+N/Users/hamed/Documents/c++/respring/respring/Untitled-2.png
+c00000000530329A20000000000004E65
+t1392716194
+s20069
+
+N/Users/hamed/Documents/c++/respring/respring/Untitled-3.png
+c0000000053032AC20000000000004E75
+t1392716482
+s20085
+
+N/Users/hamed/Documents/c++/respring/respring/Untitled.png
+c00000000530328FA0000000000004F9F
+t1392716026
+s20383
+
+N/Users/hamed/Documents/c++/respring/respring/en.lproj/InfoPlist.strings
+c000000005303179B000000000000002D
+t1392711579
+s45
+
+N/Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.h
+c000000005303179B0000000000000137
+t1392711579
+s311
+
+N/Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m
+c000000005303179B00000000000007FE
+t1392711579
+s2046
+
+N/Users/hamed/Documents/c++/respring/respring/hamedViewController.h
+c000000005303179B00000000000000F9
+t1392711579
+s249
+
+N/Users/hamed/Documents/c++/respring/respring/hamedViewController.m
+c0000000053035C0100000000000002E2
+t1392729089
+s738
+
+N/Users/hamed/Documents/c++/respring/respring/main.m
+c0000000053032DC20000000000000196
+t1392717250
+s406
+
+N/Users/hamed/Documents/c++/respring/respring/respring-Info.plist
+c0000000053031B86000000000000067C
+t1392712582
+s1660
+
+N/Users/hamed/Documents/c++/respring/respring/respring-Prefix.pch
+c000000005303179B0000000000000158
+t1392711579
+s344
+
+N/Users/hamed/Documents/c++/respring/respring/url.png
+c0000000053031C130000000000003507
+t1392712723
+s13575
+
+N/var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-dflckrzpcoqxnmhanupwtfiaxemd/respring-Prefix.pch.pch
+t1392711706
+s85732
+
+CBuild AST from /Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m
+r0
+
+CBuild AST from /Users/hamed/Documents/c++/respring/respring/hamedViewController.m
+r0
+
+CBuild AST from /Users/hamed/Documents/c++/respring/respring/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0f60f94594b3b841^4606014694b3b841^---0#1#1#--18"Check dependencies36"4BCA98E9-FB32-4890-92E4-D875F3A29301-
+
+CCodeSign /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app
+s414422086.007263
+e414422086.176054
+r1
+xCodeSign
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app
+o/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app: replacing existing signature
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"CodeSign build/Debug-iphoneos/respring.app42"CodeSign build/Debug-iphoneos/respring.app47e6014694b3b841^88122d4694b3b841^-100"/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@77"file:///Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/0000000000000000^744"CodeSign build/Debug-iphoneos/respring.app    cd /Users/hamed/Documents/c++/respring    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    Using code signing identity "iPhone Developer"    /usr/bin/codesign --force --sign 48F74EAC50D924669BEEB76F8D7E743359CB0813 --resource-rules=/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/ResourceRules.plist /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app36"8909EC0D-15D9-4106-B2F1-A3730270DA54-
+b555AF5CC-7777-40A0-874B-5369649AC8F4
+
+CCompileAssetCatalog /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app /Users/hamed/Documents/c++/respring/respring/Images.xcassets
+s414405804.187103
+e414405807.437873
+r1
+xCompileAssetCatalog
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app
+x/Users/hamed/Documents/c++/respring/respring/Images.xcassets
+o2014-02-18 12:13:27.260 IBCocoaTouchImageCatalogTool[51855:303] CFPreferences: user home directory at file:///Users/hamed/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.document.warnings */
+o/Users/hamed/Documents/c++/respring/respring/Images.xcassets:./AppIcon-2.appiconset: warning: A 76x76 app icon is required for iPad apps targeting iOS 7.0 and later
+o/Users/hamed/Documents/c++/respring/respring/Images.xcassets:./AppIcon-2.appiconset: warning: A 76x76@2x app icon is required for iPad apps targeting iOS 7.0 and later
+o/Users/hamed/Documents/c++/respring/respring/Images.xcassets:./AppIcon-2.appiconset/[iphone][40x40][2x]: warning: AppIcon-2.appiconset/url-2.png is 120x120 but should be 80x80.
+o/Users/hamed/Documents/c++/respring/respring/Images.xcassets:./AppIcon-2.appiconset/[iphone][29x29][2x]: warning: AppIcon-2.appiconset/url-1.png is 120x120 but should be 58x58.
+o/Users/hamed/Documents/c++/respring/respring/Images.xcassets:./AppIcon.appiconset/[iphone][40x40][2x]: warning: AppIcon.appiconset/url-1.png is 120x120 but should be 80x80.
+o/Users/hamed/Documents/c++/respring/respring/Images.xcassets:./AppIcon.appiconset/[iphone][29x29][2x]: warning: AppIcon.appiconset/url.png is 120x120 but should be 58x58.
+o/* com.apple.actool.compilation-results */
+o/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/AppIcon-260x60@2x.png
+o/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/LaunchImage-700-568h@2x.png
+o/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Assets.car
+o/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"CompileAssetCatalog build/Debug-iphoneos/respring.app respring/Images.xcassets78"CompileAssetCatalog build/Debug-iphoneos/respring.app respring/Images.xcassetse9f12fac54b3b841^1a1970af54b3b841^-1732"2014-02-18 12:13:27.260 IBCocoaTouchImageCatalogTool[51855:303] CFPreferences: user home directory at file:///Users/hamed/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.document.warnings *//Users/hamed/Documents/c++/respring/respring/Images.xcassets:./AppIcon-2.appiconset: warning: A 76x76 app icon is required for iPad apps targeting iOS 7.0 and later/Users/hamed/Documents/c++/respring/respring/Images.xcassets:./AppIcon-2.appiconset: warning: A 76x76@2x app icon is required for iPad apps targeting iOS 7.0 and later/Users/hamed/Documents/c++/respring/respring/Images.xcassets:./AppIcon-2.appiconset/[iphone][40x40][2x]: warning: AppIcon-2.appiconset/url-2.png is 120x120 but should be 80x80./Users/hamed/Documents/c++/respring/respring/Images.xcassets:./AppIcon-2.appiconset/[iphone][29x29][2x]: warning: AppIcon-2.appiconset/url-1.png is 120x120 but should be 58x58./Users/hamed/Documents/c++/respring/respring/Images.xcassets:./AppIcon.appiconset/[iphone][40x40][2x]: warning: AppIcon.appiconset/url-1.png is 120x120 but should be 80x80./Users/hamed/Documents/c++/respring/respring/Images.xcassets:./AppIcon.appiconset/[iphone][29x29][2x]: warning: AppIcon.appiconset/url.png is 120x120 but should be 58x58./* com.apple.actool.compilation-results *//Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/AppIcon-260x60@2x.png/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/LaunchImage-700-568h@2x.png/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Assets.car/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/assetcatalog_generated_info.plist6(21%IDEActivityLogMessage2@70"A 76x76 app icon is required for iPad apps targeting iOS 7.0 and later-414405807#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@68"file:///Users/hamed/Documents/c++/respring/respring/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@73"A 76x76@2x app icon is required for iPad apps targeting iOS 7.0 and later-414405807#18446744073709551615#0#-1#-3@68"file:///Users/hamed/Documents/c++/respring/respring/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@62"AppIcon-2.appiconset/url-2.png is 120x120 but should be 80x80.-414405807#18446744073709551615#0#-1#-3@68"file:///Users/hamed/Documents/c++/respring/respring/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@62"AppIcon-2.appiconset/url-1.png is 120x120 but should be 58x58.-414405807#18446744073709551615#0#-1#-3@68"file:///Users/hamed/Documents/c++/respring/respring/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@60"AppIcon.appiconset/url-1.png is 120x120 but should be 80x80.-414405807#18446744073709551615#0#-1#-3@68"file:///Users/hamed/Documents/c++/respring/respring/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@58"AppIcon.appiconset/url.png is 120x120 but should be 58x58.-414405807#18446744073709551615#0#-1#-3@68"file:///Users/hamed/Documents/c++/respring/respring/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--0#0#1#-19%DVTDocumentLocation4@68"file:///Users/hamed/Documents/c++/respring/respring/Images.xcassets/0000000000000000^1031"CompileAssetCatalog build/Debug-iphoneos/respring.app respring/Images.xcassets    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/assetcatalog_generated_info.plist --app-icon AppIcon-2 --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app /Users/hamed/Documents/c++/respring/respr36"F527CD65-C113-4FAC-906B-C312C8DF199A-
+b107D3045-A6C0-4068-B4FF-0CFD960C70FC
+
+CCompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/arm64/hamedAppDelegate.o /Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/arm64/hamedViewController.o /Users/hamed/Documents/c++/respring/respring/hamedViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/arm64/main.o /Users/hamed/Documents/c++/respring/respring/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7/hamedAppDelegate.o /Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7/hamedViewController.o /Users/hamed/Documents/c++/respring/respring/hamedViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7/main.o /Users/hamed/Documents/c++/respring/respring/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedAppDelegate.o /Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414404506.529210
+e414404506.893816
+r1
+xCompileC
+xbuild/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedAppDelegate.o
+x/Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m
+d/Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m198"CompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedAppDelegate.o respring/hamedAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler7191879a4fb3b841^bfd3e49a4fb3b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m0000000000000000^3384"CompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedAppDelegate.o respring/hamedAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hamed/Documents/c++/respring    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hamed/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-generated-files.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-own-target-headers.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-all-target-headers.hmap -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-project-headers.hmap -I/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/DerivedSources/armv7s -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/DerivedSources -F/Users/hamed/Documents/c++/respring/build/Debug-iphoneos -include /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-dflckrzpcoqxnmhanupwtfiaxemd/respring-Prefix.pch -MMD -MT dependencies -MF /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedAppDelegate.d --serialize-diagnostics /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedAppDelegate.dia -c /Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.m -o /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s36"A2D6E62C-E94F-4C42-980F-8359FE76BB43-
+b593CC4E2-78EA-4FFA-A286-8AE54F299FE7
+
+CCompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedViewController.o /Users/hamed/Documents/c++/respring/respring/hamedViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414421889.664779
+e414421900.518075
+r1
+xCompileC
+xbuild/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedViewController.o
+x/Users/hamed/Documents/c++/respring/respring/hamedViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hamed/Documents/c++/respring/respring/hamedViewController.m
+d/Users/hamed/Documents/c++/respring/respring/hamedViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/hamed/Documents/c++/respring/respring/hamedViewController.m204"CompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedViewController.o respring/hamedViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilercb0fc08193b3b841^27a1848c93b3b841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/hamed/Documents/c++/respring/respring/hamedViewController.m0000000000000000^3402"CompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedViewController.o respring/hamedViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hamed/Documents/c++/respring    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hamed/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-generated-files.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-own-target-headers.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-all-target-headers.hmap -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-project-headers.hmap -I/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/DerivedSources/armv7s -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/DerivedSources -F/Users/hamed/Documents/c++/respring/build/Debug-iphoneos -include /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-dflckrzpcoqxnmhanupwtfiaxemd/respring-Prefix.pch -MMD -MT dependencies -MF /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedViewController.d --serialize-diagnostics /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedViewController.dia -c /Users/hamed/Documents/c++/respring/respring/hamedViewController.m -o /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/ha36"1F94FEE4-CE1F-473E-A51E-0B1DE7B489C9-
+b75250CE9-3ACA-4BDB-9323-5941131DCD7E
+
+CCompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/main.o /Users/hamed/Documents/c++/respring/respring/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414410050.900730
+e414410051.996357
+r1
+xCompileC
+xbuild/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/main.o
+x/Users/hamed/Documents/c++/respring/respring/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hamed/Documents/c++/respring/respring/main.m
+d/Users/hamed/Documents/c++/respring/respring/hamedAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/hamed/Documents/c++/respring/respring/main.m174"CompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/main.o respring/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilercaa8e64265b3b841^9411ff4365b3b841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/hamed/Documents/c++/respring/respring/main.m0000000000000000^3312"CompileC build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/main.o respring/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hamed/Documents/c++/respring    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hamed/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-generated-files.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-own-target-headers.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-all-target-headers.hmap -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-project-headers.hmap -I/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/DerivedSources/armv7s -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/DerivedSources -F/Users/hamed/Documents/c++/respring/build/Debug-iphoneos -include /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-dflckrzpcoqxnmhanupwtfiaxemd/respring-Prefix.pch -MMD -MT dependencies -MF /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/main.dia -c /Users/hamed/Documents/c++/respring/respring/main.m -o /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-n36"C8C2834D-C1E5-41ED-AADC-5B66640599A1-
+bAC78D2E8-5301-47C2-BEFE-CA432EADEF3E
+
+CCompileStoryboard /Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPad.storyboard
+s414404508.136192
+e414404509.705750
+r1
+xCompileStoryboard
+x/Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"CompileStoryboard respring/Base.lproj/Main_iPad.storyboard58"CompileStoryboard respring/Base.lproj/Main_iPad.storyboard8dec229c4fb3b841^a7aeb49d4fb3b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPad.storyboard0000000000000000^810"CompileStoryboard respring/Base.lproj/Main_iPad.storyboard    cd /Users/hamed/Documents/c++/respring    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Base.lproj/Main_iPad.storyboardc /Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPad.storyboard36"D7E907AD-9447-42E4-AB26-B1C455159FDE-
+b593CC4E2-78EA-4FFA-A286-8AE54F299FE7
+
+CCompileStoryboard /Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPhone.storyboard
+s414419141.301689
+e414419144.571267
+r1
+xCompileStoryboard
+x/Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"CompileStoryboard respring/Base.lproj/Main_iPhone.storyboard60"CompileStoryboard respring/Base.lproj/Main_iPhone.storyboarde0474dc588b3b841^793f92c888b3b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPhone.storyboard0000000000000000^816"CompileStoryboard respring/Base.lproj/Main_iPhone.storyboard    cd /Users/hamed/Documents/c++/respring    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Base.lproj/Main_iPhone.storyboardc /Users/hamed/Documents/c++/respring/respring/Base.lproj/Main_iPhone.storyboard36"F0C9EED3-450C-4F91-A900-DA8F5F583AEB-
+bF23E1D23-6179-44C9-9514-F755EA8EB534
+
+CCopyPNGFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-1.png respring/Untitled-1.png
+s414407937.777251
+e414407938.087107
+r1
+xCopyPNGFile
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-1.png
+xrespring/Untitled-1.png
+osh: dirname: command not found
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"CopyPNGFile build/Debug-iphoneos/respring.app/Untitled-1.png respring/Untitled-1.png84"CopyPNGFile build/Debug-iphoneos/respring.app/Untitled-1.png respring/Untitled-1.png9012c7015db3b841^53e81c025db3b841^-31"sh: dirname: command not found-0#0#1#-19%DVTDocumentLocation2@66"file:///Users/hamed/Documents/c++/respring/respring/Untitled-1.png0000000000000000^602"CopyPNGFile build/Debug-iphoneos/respring.app/Untitled-1.png respring/Untitled-1.png    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/hamed/Documents/c++/respring/respring/Untitled-1.png /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-1.png36"2978D129-2DC7-4F75-923B-D28B0FC9CA5D-
+bE1172531-5101-4540-BFDA-C7FD5DC99D39
+
+CCopyPNGFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-2.png respring/Untitled-2.png
+s414409116.476337
+e414409117.429668
+r1
+xCopyPNGFile
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-2.png
+xrespring/Untitled-2.png
+osh: dirname: command not found
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"CopyPNGFile build/Debug-iphoneos/respring.app/Untitled-2.png respring/Untitled-2.png84"CopyPNGFile build/Debug-iphoneos/respring.app/Untitled-2.png respring/Untitled-2.pngd2fc799c61b3b841^50ff6d9d61b3b841^-31"sh: dirname: command not found-0#0#1#-19%DVTDocumentLocation2@66"file:///Users/hamed/Documents/c++/respring/respring/Untitled-2.png0000000000000000^602"CopyPNGFile build/Debug-iphoneos/respring.app/Untitled-2.png respring/Untitled-2.png    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/hamed/Documents/c++/respring/respring/Untitled-2.png /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-2.png36"B46313F9-08AE-4E39-A2D1-A8EC1EA211F9-
+bF346C368-CD96-454F-B08F-D409ADC86BAC
+
+CCopyPNGFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-3.png respring/Untitled-3.png
+s414409319.953875
+e414409320.420003
+r1
+xCopyPNGFile
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-3.png
+xrespring/Untitled-3.png
+osh: dirname: command not found
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"CopyPNGFile build/Debug-iphoneos/respring.app/Untitled-3.png respring/Untitled-3.png84"CopyPNGFile build/Debug-iphoneos/respring.app/Untitled-3.png respring/Untitled-3.png363df46762b3b841^83856b6862b3b841^-31"sh: dirname: command not found-0#0#1#-19%DVTDocumentLocation2@66"file:///Users/hamed/Documents/c++/respring/respring/Untitled-3.png0000000000000000^602"CopyPNGFile build/Debug-iphoneos/respring.app/Untitled-3.png respring/Untitled-3.png    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/hamed/Documents/c++/respring/respring/Untitled-3.png /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled-3.png36"684CB72D-8F08-476A-8369-3D98296B5F4C-
+bDE00E212-49EE-4A8D-9A7B-8AF4B5965F17
+
+CCopyPNGFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled.png respring/Untitled.png
+s414408896.533732
+e414408903.271622
+r1
+xCopyPNGFile
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled.png
+xrespring/Untitled.png
+osh: dirname: command not found
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CopyPNGFile build/Debug-iphoneos/respring.app/Untitled.png respring/Untitled.png80"CopyPNGFile build/Debug-iphoneos/respring.app/Untitled.png respring/Untitled.png00ae88c060b3b841^228a45c760b3b841^-31"sh: dirname: command not found-0#0#1#-19%DVTDocumentLocation2@64"file:///Users/hamed/Documents/c++/respring/respring/Untitled.png0000000000000000^594"CopyPNGFile build/Debug-iphoneos/respring.app/Untitled.png respring/Untitled.png    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/hamed/Documents/c++/respring/respring/Untitled.png /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Untitled.png36"EACF2800-2441-47D7-9E94-1F10F25F678E-
+b50DA0C92-003F-430E-A9EC-4673E497A713
+
+CCopyPNGFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/url.png /Users/hamed/Desktop/url.png
+s414404970.143613
+e414404971.199076
+r1
+xCopyPNGFile
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/url.png
+x/Users/hamed/Desktop/url.png
+osh: dirname: command not found
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile build/Debug-iphoneos/respring.app/url.png /Users/hamed/Desktop/url.png82"CopyPNGFile build/Debug-iphoneos/respring.app/url.png /Users/hamed/Desktop/url.png9ecf246a51b3b841^1af7326b51b3b841^-31"sh: dirname: command not found-0#0#1#-19%DVTDocumentLocation2@35"file:///Users/hamed/Desktop/url.png0000000000000000^562"CopyPNGFile build/Debug-iphoneos/respring.app/url.png /Users/hamed/Desktop/url.png    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/hamed/Desktop/url.png /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/url.png36"BF152CFE-5579-43DC-A619-04296588210D-
+bA5613357-1F7A-4716-8A0C-E8F4CAC4B4EB
+
+CCopyPNGFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/url.png respring/url.png
+s414405627.740925
+e414405628.769755
+r1
+xCopyPNGFile
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/url.png
+xrespring/url.png
+osh: dirname: command not found
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CopyPNGFile build/Debug-iphoneos/respring.app/url.png respring/url.png70"CopyPNGFile build/Debug-iphoneos/respring.app/url.png respring/url.png78b8bdfb53b3b841^a60fc5fc53b3b841^-31"sh: dirname: command not found-0#0#1#-19%DVTDocumentLocation2@59"file:///Users/hamed/Documents/c++/respring/respring/url.png0000000000000000^574"CopyPNGFile build/Debug-iphoneos/respring.app/url.png respring/url.png    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/hamed/Documents/c++/respring/respring/url.png /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/url.png36"5840B428-95B3-4B46-B679-5D8DB02C109D-
+bEF7A8008-DA65-4DE6-9C03-A49EEA7C9201
+
+CCopyStringsFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/en.lproj/InfoPlist.strings respring/en.lproj/InfoPlist.strings
+s414404508.136375
+e414404508.211020
+r1
+xCopyStringsFile
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/en.lproj/InfoPlist.strings
+xrespring/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy respring/en.lproj/InfoPlist.strings112"CopyStringsFile build/Debug-iphoneos/respring.app/en.lproj/InfoPlist.strings respring/en.lproj/InfoPlist.strings27f8229c4fb3b841^ee05369c4fb3b841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/hamed/Documents/c++/respring/respring/en.lproj/InfoPlist.strings0000000000000000^582"CopyStringsFile build/Debug-iphoneos/respring.app/en.lproj/InfoPlist.strings respring/en.lproj/InfoPlist.strings    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/en.lproj -- respring/en.lproj/InfoPlist.strings36"6E1A2FB2-048D-45BA-A8CF-E2CCF0B85CDB-
+b593CC4E2-78EA-4FFA-A286-8AE54F299FE7
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Debug-iphoneos/respring.app/ResourceRules.plist
+s414404505.184930
+e414404505.399449
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/respring.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Debug-iphoneos/respring.app/ResourceRules.plist186"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Debug-iphoneos/respring.app/ResourceRules.plist79063d994fb3b841^c2da7c994fb3b841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/ResourceRules.plist00348cf7deffdf42^752"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Debug-iphoneos/respring.app/ResourceRules.plist    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app36"084B9F01-629E-4382-B355-83995BC4CE05-
+b593CC4E2-78EA-4FFA-A286-8AE54F299FE7
+
+CCreateUniversalBinary /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/respring normal armv7\ armv7s\ arm64
+r0
+
+CGenerateDSYMFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app.dSYM /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/respring
+s414421995.776276
+e414421995.845683
+r1
+xGenerateDSYMFile
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app.dSYM
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/respring
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generate /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app.dSYM98"GenerateDSYMFile build/Debug-iphoneos/respring.app.dSYM build/Debug-iphoneos/respring.app/respring82c4c6eb93b3b841^33a3e3eb93b3b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app.dSYM/0000000000000000^617"GenerateDSYMFile build/Debug-iphoneos/respring.app.dSYM build/Debug-iphoneos/respring.app/respring    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/respring -o /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app.dSYM36"0786477C-FA45-431B-AA49-BF1DB62B45EB-
+b5AD0D97B-FB67-49E6-B408-89233EF01EA4
+
+CLd /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/respring normal armv7s
+s414421900.608162
+e414421905.792945
+r1
+xLd
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/respring
+xnormal
+xarmv7s
+d/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/respring.LinkFileList
+d/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedAppDelegate.o
+d/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/hamedViewController.o
+d/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Link /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/respring59"Ld build/Debug-iphoneos/respring.app/respring normal armv7se0bd9b8c93b3b841^feba4b9293b3b841^---0#0#1#--1212"Ld build/Debug-iphoneos/respring.app/respring normal armv7s    cd /Users/hamed/Documents/c++/respring    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/hamed/Documents/c++/respring/build/Debug-iphoneos -F/Users/hamed/Documents/c++/respring/build/Debug-iphoneos -filelist /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/respring.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/respring_dependency_info.dat -o /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/re36"6FE90CEA-42D2-4017-B9BC-75A4B9020D89-
+b75250CE9-3ACA-4BDB-9323-5941131DCD7E
+
+CLd /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/arm64/respring normal arm64
+r0
+
+CLd /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7/respring normal armv7
+r0
+
+CLd /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/Objects-normal/armv7s/respring normal armv7s
+r0
+
+CProcessInfoPlistFile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Info.plist /Users/hamed/Documents/c++/respring/respring/respring-Info.plist
+s414405807.438236
+e414405807.526881
+r1
+xProcessInfoPlistFile
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Info.plist
+x/Users/hamed/Documents/c++/respring/respring/respring-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Process /Users/hamed/Documents/c++/respring/respring/respring-Info.plist94"ProcessInfoPlistFile build/Debug-iphoneos/respring.app/Info.plist respring/respring-Info.plist603b70af54b3b841^5befa7af54b3b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/hamed/Documents/c++/respring/respring/respring-Info.plist0000000000000000^932"ProcessInfoPlistFile build/Debug-iphoneos/respring.app/Info.plist respring/respring-Info.plist    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    builtin-infoPlistUtility /Users/hamed/Documents/c++/respring/respring/respring-Info.plist -genpkginfo /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/ResourceRules.plist -additionalcontentfile /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/assetcatalog_generated_info.plist -o /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app/Info.plist36"1AE41F78-A51F-4997-B367-DD54EAD912A9-
+b107D3045-A6C0-4068-B4FF-0CFD960C70FC
+
+CProcessPCH /Users/hamed/Library/Developer/Xcode/DerivedData/respring-hagtojtasmrirmawoqdhvsvqvnjr/Index/PrecompiledHeaders/respring-Prefix-bdtwekdlirdqwgdiwklcyweftqjs_ast/respring-Prefix.pch.pch respring/respring-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/hamed/Library/Developer/Xcode/DerivedData/respring-hagtojtasmrirmawoqdhvsvqvnjr/Index/PrecompiledHeaders/respring-Prefix-cfyfbwhuwohuaqhapokzrjngvnac_ast/respring-Prefix.pch.pch respring/respring-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/hamed/Library/Developer/Xcode/DerivedData/respring-hagtojtasmrirmawoqdhvsvqvnjr/Index/PrecompiledHeaders/respring-Prefix-ezwexpmjrgzquncfrbykmtfobszj_ast/respring-Prefix.pch.pch respring/respring-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-byjbvewamjfotnfsyzstekidgerj/respring-Prefix.pch.pch respring/respring-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-dflckrzpcoqxnmhanupwtfiaxemd/respring-Prefix.pch.pch respring/respring-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414404505.399968
+e414404506.528718
+r1
+xProcessPCH
+x/var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-dflckrzpcoqxnmhanupwtfiaxemd/respring-Prefix.pch.pch
+xrespring/respring-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hamed/Documents/c++/respring/respring/respring-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile respring/respring-Prefix.pch296"ProcessPCH /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-dflckrzpcoqxnmhanupwtfiaxemd/respring-Prefix.pch.pch respring/respring-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler797566994fb3b841^7d5c879a4fb3b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/hamed/Documents/c++/respring/respring/respring-Prefix.pch0000000000000000^3471"ProcessPCH /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-dflckrzpcoqxnmhanupwtfiaxemd/respring-Prefix.pch.pch respring/respring-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hamed/Documents/c++/respring    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hamed/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-generated-files.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-own-target-headers.hmap -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-all-target-headers.hmap -iquote /Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/respring-project-headers.hmap -I/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/DerivedSources/armv7s -I/Users/hamed/Documents/c++/respring/build/respring.build/Debug-iphoneos/respring.build/DerivedSources -F/Users/hamed/Documents/c++/respring/build/Debug-iphoneos --serialize-diagnostics /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-dflckrzpcoqxnmhanupwtfiaxemd/respring-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-dflckrzpcoqxnmhanupwtfiaxemd/respring-Prefix.pch.d -c /Users/hamed/Documents/c++/respring/respring/respring-Prefix.pch -o /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-dflckrzpcoqxnmhanupwtfiaxemd/resp36"04A6D6F8-9D42-4E47-A27F-5DC086112D9A-
+b593CC4E2-78EA-4FFA-A286-8AE54F299FE7
+
+CProcessPCH /var/folders/25/ktct6j6518g0ktzwlbcl_gq40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/respring-Prefix-gkmifkjysskqiwgonlnopsxaxcok/respring-Prefix.pch.pch respring/respring-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CTouch /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app
+s414419144.686908
+e414419144.719702
+r1
+xTouch
+x/Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Touch /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app39"Touch build/Debug-iphoneos/respring.app9fe3afc888b3b841^c040b8c888b3b841^---0#0#1#--393"Touch build/Debug-iphoneos/respring.app    cd /Users/hamed/Documents/c++/respring    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin‭:‬‭/‬usr/bin‭:/‬bin‭:/‬usr/sbin‭:/‬sbin"    /usr/bin/touch -c /Users/hamed/Documents/c++/respring/build/Debug-iphoneos/respring.app36"801BE7D1-5FB8-4821-BF7C-AD1F7ABEC5B6-
+bF23E1D23-6179-44C9-9514-F755EA8EB534
+
