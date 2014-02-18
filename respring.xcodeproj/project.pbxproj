@@ -1,0 +1,490 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		051DE32418B34F1B0018E02B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 051DE32318B34F1B0018E02B /* Foundation.framework */; };
+		051DE32618B34F1B0018E02B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 051DE32518B34F1B0018E02B /* CoreGraphics.framework */; };
+		051DE32818B34F1B0018E02B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 051DE32718B34F1B0018E02B /* UIKit.framework */; };
+		051DE32E18B34F1B0018E02B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 051DE32C18B34F1B0018E02B /* InfoPlist.strings */; };
+		051DE33018B34F1B0018E02B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 051DE32F18B34F1B0018E02B /* main.m */; };
+		051DE33418B34F1B0018E02B /* hamedAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 051DE33318B34F1B0018E02B /* hamedAppDelegate.m */; };
+		051DE33718B34F1B0018E02B /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 051DE33518B34F1B0018E02B /* Main_iPhone.storyboard */; };
+		051DE33A18B34F1B0018E02B /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 051DE33818B34F1B0018E02B /* Main_iPad.storyboard */; };
+		051DE33D18B34F1B0018E02B /* hamedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 051DE33C18B34F1B0018E02B /* hamedViewController.m */; };
+		051DE33F18B34F1B0018E02B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 051DE33E18B34F1B0018E02B /* Images.xcassets */; };
+		051DE34618B34F1B0018E02B /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 051DE34518B34F1B0018E02B /* XCTest.framework */; };
+		051DE34718B34F1B0018E02B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 051DE32318B34F1B0018E02B /* Foundation.framework */; };
+		051DE34818B34F1B0018E02B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 051DE32718B34F1B0018E02B /* UIKit.framework */; };
+		051DE35018B34F1B0018E02B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 051DE34E18B34F1B0018E02B /* InfoPlist.strings */; };
+		051DE35218B34F1B0018E02B /* respringTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 051DE35118B34F1B0018E02B /* respringTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		051DE34918B34F1B0018E02B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 051DE31818B34F1B0018E02B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 051DE31F18B34F1B0018E02B;
+			remoteInfo = respring;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		051DE32018B34F1B0018E02B /* respring.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = respring.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		051DE32318B34F1B0018E02B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		051DE32518B34F1B0018E02B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		051DE32718B34F1B0018E02B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		051DE32B18B34F1B0018E02B /* respring-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "respring-Info.plist"; sourceTree = "<group>"; };
+		051DE32D18B34F1B0018E02B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		051DE32F18B34F1B0018E02B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		051DE33118B34F1B0018E02B /* respring-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "respring-Prefix.pch"; sourceTree = "<group>"; };
+		051DE33218B34F1B0018E02B /* hamedAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = hamedAppDelegate.h; sourceTree = "<group>"; };
+		051DE33318B34F1B0018E02B /* hamedAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = hamedAppDelegate.m; sourceTree = "<group>"; };
+		051DE33618B34F1B0018E02B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
+		051DE33918B34F1B0018E02B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
+		051DE33B18B34F1B0018E02B /* hamedViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = hamedViewController.h; sourceTree = "<group>"; };
+		051DE33C18B34F1B0018E02B /* hamedViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = hamedViewController.m; sourceTree = "<group>"; };
+		051DE33E18B34F1B0018E02B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		051DE34418B34F1B0018E02B /* respringTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = respringTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		051DE34518B34F1B0018E02B /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		051DE34D18B34F1B0018E02B /* respringTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "respringTests-Info.plist"; sourceTree = "<group>"; };
+		051DE34F18B34F1B0018E02B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		051DE35118B34F1B0018E02B /* respringTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = respringTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		051DE31D18B34F1B0018E02B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				051DE32618B34F1B0018E02B /* CoreGraphics.framework in Frameworks */,
+				051DE32818B34F1B0018E02B /* UIKit.framework in Frameworks */,
+				051DE32418B34F1B0018E02B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		051DE34118B34F1B0018E02B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				051DE34618B34F1B0018E02B /* XCTest.framework in Frameworks */,
+				051DE34818B34F1B0018E02B /* UIKit.framework in Frameworks */,
+				051DE34718B34F1B0018E02B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		051DE31718B34F1B0018E02B = {
+			isa = PBXGroup;
+			children = (
+				051DE32918B34F1B0018E02B /* respring */,
+				051DE34B18B34F1B0018E02B /* respringTests */,
+				051DE32218B34F1B0018E02B /* Frameworks */,
+				051DE32118B34F1B0018E02B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		051DE32118B34F1B0018E02B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				051DE32018B34F1B0018E02B /* respring.app */,
+				051DE34418B34F1B0018E02B /* respringTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		051DE32218B34F1B0018E02B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				051DE32318B34F1B0018E02B /* Foundation.framework */,
+				051DE32518B34F1B0018E02B /* CoreGraphics.framework */,
+				051DE32718B34F1B0018E02B /* UIKit.framework */,
+				051DE34518B34F1B0018E02B /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		051DE32918B34F1B0018E02B /* respring */ = {
+			isa = PBXGroup;
+			children = (
+				051DE33218B34F1B0018E02B /* hamedAppDelegate.h */,
+				051DE33318B34F1B0018E02B /* hamedAppDelegate.m */,
+				051DE33518B34F1B0018E02B /* Main_iPhone.storyboard */,
+				051DE33818B34F1B0018E02B /* Main_iPad.storyboard */,
+				051DE33B18B34F1B0018E02B /* hamedViewController.h */,
+				051DE33C18B34F1B0018E02B /* hamedViewController.m */,
+				051DE33E18B34F1B0018E02B /* Images.xcassets */,
+				051DE32A18B34F1B0018E02B /* Supporting Files */,
+			);
+			path = respring;
+			sourceTree = "<group>";
+		};
+		051DE32A18B34F1B0018E02B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				051DE32B18B34F1B0018E02B /* respring-Info.plist */,
+				051DE32C18B34F1B0018E02B /* InfoPlist.strings */,
+				051DE32F18B34F1B0018E02B /* main.m */,
+				051DE33118B34F1B0018E02B /* respring-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		051DE34B18B34F1B0018E02B /* respringTests */ = {
+			isa = PBXGroup;
+			children = (
+				051DE35118B34F1B0018E02B /* respringTests.m */,
+				051DE34C18B34F1B0018E02B /* Supporting Files */,
+			);
+			path = respringTests;
+			sourceTree = "<group>";
+		};
+		051DE34C18B34F1B0018E02B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				051DE34D18B34F1B0018E02B /* respringTests-Info.plist */,
+				051DE34E18B34F1B0018E02B /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		051DE31F18B34F1B0018E02B /* respring */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 051DE35518B34F1B0018E02B /* Build configuration list for PBXNativeTarget "respring" */;
+			buildPhases = (
+				051DE31C18B34F1B0018E02B /* Sources */,
+				051DE31D18B34F1B0018E02B /* Frameworks */,
+				051DE31E18B34F1B0018E02B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = respring;
+			productName = respring;
+			productReference = 051DE32018B34F1B0018E02B /* respring.app */;
+			productType = "com.apple.product-type.application";
+		};
+		051DE34318B34F1B0018E02B /* respringTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 051DE35818B34F1B0018E02B /* Build configuration list for PBXNativeTarget "respringTests" */;
+			buildPhases = (
+				051DE34018B34F1B0018E02B /* Sources */,
+				051DE34118B34F1B0018E02B /* Frameworks */,
+				051DE34218B34F1B0018E02B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				051DE34A18B34F1B0018E02B /* PBXTargetDependency */,
+			);
+			name = respringTests;
+			productName = respringTests;
+			productReference = 051DE34418B34F1B0018E02B /* respringTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		051DE31818B34F1B0018E02B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = hamed;
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = Hamed;
+				TargetAttributes = {
+					051DE34318B34F1B0018E02B = {
+						TestTargetID = 051DE31F18B34F1B0018E02B;
+					};
+				};
+			};
+			buildConfigurationList = 051DE31B18B34F1B0018E02B /* Build configuration list for PBXProject "respring" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 051DE31718B34F1B0018E02B;
+			productRefGroup = 051DE32118B34F1B0018E02B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				051DE31F18B34F1B0018E02B /* respring */,
+				051DE34318B34F1B0018E02B /* respringTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		051DE31E18B34F1B0018E02B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				051DE33A18B34F1B0018E02B /* Main_iPad.storyboard in Resources */,
+				051DE33F18B34F1B0018E02B /* Images.xcassets in Resources */,
+				051DE33718B34F1B0018E02B /* Main_iPhone.storyboard in Resources */,
+				051DE32E18B34F1B0018E02B /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		051DE34218B34F1B0018E02B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				051DE35018B34F1B0018E02B /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		051DE31C18B34F1B0018E02B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				051DE33418B34F1B0018E02B /* hamedAppDelegate.m in Sources */,
+				051DE33D18B34F1B0018E02B /* hamedViewController.m in Sources */,
+				051DE33018B34F1B0018E02B /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		051DE34018B34F1B0018E02B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				051DE35218B34F1B0018E02B /* respringTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		051DE34A18B34F1B0018E02B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 051DE31F18B34F1B0018E02B /* respring */;
+			targetProxy = 051DE34918B34F1B0018E02B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		051DE32C18B34F1B0018E02B /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				051DE32D18B34F1B0018E02B /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		051DE33518B34F1B0018E02B /* Main_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				051DE33618B34F1B0018E02B /* Base */,
+			);
+			name = Main_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		051DE33818B34F1B0018E02B /* Main_iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				051DE33918B34F1B0018E02B /* Base */,
+			);
+			name = Main_iPad.storyboard;
+			sourceTree = "<group>";
+		};
+		051DE34E18B34F1B0018E02B /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				051DE34F18B34F1B0018E02B /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		051DE35318B34F1B0018E02B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		051DE35418B34F1B0018E02B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		051DE35618B34F1B0018E02B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "respring/respring-Prefix.pch";
+				INFOPLIST_FILE = "respring/respring-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		051DE35718B34F1B0018E02B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "respring/respring-Prefix.pch";
+				INFOPLIST_FILE = "respring/respring-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		051DE35918B34F1B0018E02B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/respring.app/respring";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "respring/respring-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "respringTests/respringTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		051DE35A18B34F1B0018E02B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/respring.app/respring";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "respring/respring-Prefix.pch";
+				INFOPLIST_FILE = "respringTests/respringTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		051DE31B18B34F1B0018E02B /* Build configuration list for PBXProject "respring" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				051DE35318B34F1B0018E02B /* Debug */,
+				051DE35418B34F1B0018E02B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		051DE35518B34F1B0018E02B /* Build configuration list for PBXNativeTarget "respring" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				051DE35618B34F1B0018E02B /* Debug */,
+				051DE35718B34F1B0018E02B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		051DE35818B34F1B0018E02B /* Build configuration list for PBXNativeTarget "respringTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				051DE35918B34F1B0018E02B /* Debug */,
+				051DE35A18B34F1B0018E02B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 051DE31818B34F1B0018E02B /* Project object */;
+}
